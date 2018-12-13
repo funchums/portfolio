@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 7
+date: 2016-08-01
+title: Document Control System.
+img: port6.png
+alt: image-alt
+project-date: August 2016
+client: Idroesse Infrastructure
+category: System Development
+description: Idroesse Infrastructure's Document Control System is used to store, manage and track documents for request and permits needed in construction project.
+problem: Manage and monitor inspection requests for engineers and inspectors.
+solution: Create a document monitoring system.
+complexity: Advance
+tools: VBA, MSAccess, Adobe PDF
+---

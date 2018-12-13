@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 6
+date: 2012-08-01
+title: MAXIMA Rental Site.
+img: port5.png
+alt: image-alt
+project-date: August 2012
+client: Maxima Machineries
+category: Web/System Development
+description: Rental website of MAXIMA Machineries, it contains Information about the company and list of available machines for rental or selling.
+problem: To advertise company's items and machines for bigger audience.
+solution: Create company's personal website.
+complexity: Advance
+tools: PHP, MySQL, Javascript
+---

@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+date: 2007-03-01
+title: RESPSCI Website.
+img: port2.png
+alt: image-alt
+project-date: March 2007
+client: RESPSCI School
+category: Web Development
+description: A website for REPSCI ( Rizal Experimental and Pilot School of Cottage Industries ) that contains all the necessary information about the school as well as the available classes for the current semester.
+problem: To show school information, class status and advertisements.
+solution: Create school personal website.
+complexity: Advance
+tools: PHP, MySQL, Javascript
+
+---

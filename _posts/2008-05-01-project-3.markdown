@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 3
+date: 2008-05-01
+title: N3Point Systems Corp.
+img: port3.png
+alt: image-alt
+project-date: May 2008
+client: N3Point Systems Corporation
+category: Web Development
+description: N3point Systems Corporation Website contains company information, products, and services.
+problem: To Showcase company's information, services and advertisements.
+solution: Create company's personal website.
+complexity: Advance
+tools: PHP, MySQL, Javascript
+---

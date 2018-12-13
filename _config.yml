@@ -1,0 +1,49 @@
+# Site settings
+title: Carlos Suarez | Systems, Back-end Engineer and Stock Trader
+name: Carlos Suarez
+skills: Systems and Back-end Engineer
+email: carrot.suarez@gmail.com
+baseurl: "portfolio"
+url: ""
+description: "Onion Codes is a personal portfolio of Carlos R. T. Suarez, that showcase his previous works and projects."
+keywords: "Portfolio, portfolio, Carlos Romulo T. Suarez, Carlos Romulo Suarez"
+skill-note: "I love designing and creating computer systems."
+meta_author: Suarez Carlos Romulo
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2c3e50 #969b99 #18bc9c #80B3FF
+  primary-rgb: "80,81,81" #"24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Carlos Suarez. Powered by Jekyll.
+  location: Location
+  social: Contact me
+#  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: google
+    url: mailto:suarez.carrot@gmail.com
+  - title: facebook
+    url: https://www.facebook.com/Carlos-R-T-Suarez-342061539689396/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Manggahan, Pasig City, Philippines.
+
+# Credits content
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

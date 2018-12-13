@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 5
+date: 2011-07-01
+title: MAXIMA SMS and Workflow System.
+img: port4.png
+alt: image-alt
+project-date: July 2011
+client: Maxima Machineries
+category: System Development
+description: Maxima SMS is one of the internal part of the workflow system of Maxima Machineries to register and monitor all SMS Rental items.
+problem: To check and Monitor rental items and services of MAXIMA machineries.
+solution: Create a monitoring system.
+complexity: Advance
+tools: PHP, MySQL, Javascript
+
+---

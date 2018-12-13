@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 1
+date: 2006-04-01
+img: port1.png
+alt: Jobline DSS
+title: Jobline Manpower Services.
+project-date: April 2006
+client: Jobline Manpower Services
+category: System/Web Development
+description: Jobline Manpower Services is an online job portal and company website for Jobline Manpower Agency.
+problem: Screening and hiring of candidates. Job postings and advertisements for bigger audience.
+solution: Create online job search engine.
+complexity: Advance
+tools: PHP, MySQL, Javascript
+
+---
